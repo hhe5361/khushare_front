@@ -4,7 +4,7 @@ KHUSHERE is an app dedicated to show traffic of certain places in Kyung Hee Univ
 ### frontend
 해당 소스는 khushere 프론트엔드 구현 소스입니다.
 
-### Using packages
+### Us packages
 ##### dio 5.1.2
 ```
 $ flutter pub add dio
