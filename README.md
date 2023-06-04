@@ -8,35 +8,47 @@ KHUSHERE is an app dedicated to show traffic of certain places in Kyung Hee Univ
 ##### dio 5.1.2
 
 '''
+
 $ flutter pub add dio
+
 '''
 
 ##### shared_pregerences
 
 '''
+
 $ flutter pub add shared_preferences
+
 '''
 
 ##### percent_indicator
 
 '''
+
 $ flutter pub add percent_indicator
+
 '''
 
 ##### fl_chart
 
 '''
+
 $ flutter pub add fl_chart
+
 '''
 
 ##### timer_builder
 
 '''
+
 $ flutter pub add timer_builder
+
 '''
 
 ##### intl
 
 '''
+
 $ flutter pub add intl
+
 '''
